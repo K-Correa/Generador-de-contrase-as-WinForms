@@ -1,0 +1,10 @@
+C:\WinForms Projects\Generador de contraseñas\Generador de contraseñas\bin\Debug\Generador de contraseñas.exe.config
+C:\WinForms Projects\Generador de contraseñas\Generador de contraseñas\bin\Debug\Generador de contraseñas.exe
+C:\WinForms Projects\Generador de contraseñas\Generador de contraseñas\bin\Debug\Generador de contraseñas.pdb
+C:\WinForms Projects\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.csprojAssemblyReference.cache
+C:\WinForms Projects\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador_de_contraseñas.Form1.resources
+C:\WinForms Projects\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador_de_contraseñas.Properties.Resources.resources
+C:\WinForms Projects\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.csproj.GenerateResource.cache
+C:\WinForms Projects\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.csproj.CoreCompileInputs.cache
+C:\WinForms Projects\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.exe
+C:\WinForms Projects\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.pdb
